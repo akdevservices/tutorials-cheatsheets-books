@@ -5,6 +5,8 @@
 - [Vim tutorials and cheatsheets](#vim-tutorials-and-cheatsheets)
 - [Neovim tutorials](#neovim-tutorials)
 - [Language Server Protocol (LSP)](#language-server-protocol-lsp)
+- [Debian](#debian)
+- [NixOS](#nixos)
 
 ## Vim tutorials and cheatsheets
 - [Vim Cheat Sheet](https://vim.rtorr.com/)
@@ -19,4 +21,13 @@
 
 ## Language Server Protocol (LSP)
 - [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol)
+
+## Debian
+- [Debian New Maintainers' Guide](https://www.debian.org/doc/manuals/maint-guide/index.en.html)
+- [Guide for Debian Maintainers](https://www.debian.org/doc/manuals/debmake-doc/index.en.html)
+- [Debian Live Manual](https://live-team.pages.debian.net/live-manual/html/live-manual/toc.en.html)
+- [How to create a Debian package and a Debian repository](https://blog.heckel.io/2015/10/18/how-to-create-debian-package-and-debian-repository)
+
+## NixOS
+- [Nix Pills](https://nixos.org/guides/nix-pills/index.html)
 
