@@ -1,4 +1,4 @@
-# Tutorials, cheatcheets, books
+# Tutorials, cheatsheets, books
 
 ## Contents
 
