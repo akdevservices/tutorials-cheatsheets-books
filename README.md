@@ -2,13 +2,14 @@
 
 ## Contents
 
-- [Vim tutorials and cheatsheets](#vim-tutorials-and-cheatsheets)
-- [Neovim tutorials](#neovim-tutorials)
-- [Language Server Protocol (LSP)](#language-server-protocol-lsp)
+- [Vim](#vim)
+- [Neovim](#neovim)
+- [Bash](#bash)
 - [Debian](#debian)
 - [NixOS](#nixos)
+- [Language Server Protocol (LSP)](#language-server-protocol-lsp)
 
-## Vim tutorials and cheatsheets
+## Vim
 - [Vim Cheat Sheet](https://vim.rtorr.com/)
 - [All things Vim!](https://github.com/mhinz/vim-galore)
 - [A Beginner Guide with Examples](https://thevaluable.dev/vim-commands-beginner)
@@ -16,11 +17,11 @@
 - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
 - [Vim Tips Wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
 
-## Neovim tutorials
+## Neovim
 - [A guide to using Lua in Neovim](https://github.com/nanotee/nvim-lua-guide)
 
-## Language Server Protocol (LSP)
-- [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol)
+## Bash
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 ## Debian
 - [Debian New Maintainers' Guide](https://www.debian.org/doc/manuals/maint-guide/index.en.html)
@@ -30,4 +31,7 @@
 
 ## NixOS
 - [Nix Pills](https://nixos.org/guides/nix-pills/index.html)
+
+## Language Server Protocol (LSP)
+- [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol)
 
