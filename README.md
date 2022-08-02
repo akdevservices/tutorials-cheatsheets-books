@@ -7,7 +7,11 @@
 - [Neovim](#neovim)
 - [Bash](#bash)
 - [Debian](#debian)
+- [Ubuntu](#ubuntu)
+- [Arch Linux](#arch-linux)
 - [NixOS](#nixos)
+- [Lua](#lua)
+- [Election](#electron)
 - [Language Server Protocol (LSP)](#language-server-protocol-lsp)
 
 ## Software development
